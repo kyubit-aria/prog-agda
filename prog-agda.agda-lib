@@ -1,0 +1,5 @@
+name: prog-agda
+include: .
+
+depend: standard-library-2.1
+   
